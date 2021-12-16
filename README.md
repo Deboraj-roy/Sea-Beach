@@ -14,11 +14,12 @@ There will have night mode and day mode also and some events will be moving such
 Tools and Software:OpenGL library, C++ and Code Blocks
 
 
-                                  Output
+                                                    Output
 
 
-
+                                                  Day mode
 ![](Capture.JPG)
 
+                                                  Night mode
 ![](Capturec%202.JPG)
 
