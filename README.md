@@ -18,7 +18,7 @@ Tools and Software:OpenGL library, C++ and Code Blocks
 
 
 
-![](Sea-Beach/blob/main/Capture.JPG)
+![](Capture.JPG)
 
-![](main/Capturec%202.JPG)
+![](Capturec%202.JPG)
 
