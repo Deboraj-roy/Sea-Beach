@@ -12,3 +12,13 @@ There will have night mode and day mode also and some events will be moving such
 6.moving birds,clouds
 
 Tools and Software:OpenGL library, C++ and Code Blocks
+
+
+                                  Output
+
+
+
+![](Sea-Beach/blob/main/Capture.JPG)
+
+![](main/Capturec%202.JPG)
+
